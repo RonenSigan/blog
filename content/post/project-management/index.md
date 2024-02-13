@@ -1,94 +1,57 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
-  - admin
-tags:
-  - Hugo Blox
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+# Display name
+title: Ronen Sigan
+
+# Name pronunciation (optional)
+name_pronunciation: Ronnehn Seeghan
+
+# Full name (for SEO)
+first_name: Ronen
+last_name: Sigan
+
+# Status emoji
+status:
+  icon: 🎭
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: any role that get's me a roll with butter
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: The world's first standdown comedy club
+    url: tbd
+
+# Short bio (displayed in user profile at end of posts)
+bio: Since I was born, I was told everything is my fault, and lately I'm realizing that it may be true. Anyway, just listened to Atomic by Blondie and wondered if Opennheimer would have liked it 🤷‍♀️.
+
+# Social Networking
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/stereofan
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download my resume
+  - icon: rss
+    url: ./post/index.xml
+    label: Subscribe to my blog via RSS feed
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+# Author's website URL
+website: ""
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-
-## Ideation
-
-Hugo Blox supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+Hello! this is a test site for Hugo Blox Blog. I hope it will be more that that soon!
