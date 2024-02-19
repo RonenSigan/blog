@@ -7,5 +7,5 @@ date: 2024-02-19T15:16:03Z
 
 ## Hello earth 🌍
 
-this is the secondpic 
+this is the second pic 
 ![hey](/food.jpg "food")
