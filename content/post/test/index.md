@@ -7,4 +7,4 @@ date: 2024-02-19T15:16:03Z
 
 ## Hello earth 🌍
 
-this is the second pic ![Scenario 1: Across columns](/food.jpg)
+{{< video src="food.jpg" >}}
