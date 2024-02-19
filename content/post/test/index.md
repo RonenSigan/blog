@@ -8,3 +8,7 @@ date: 2024-02-19T15:16:03Z
 ## Hello earth 🌍
 
 {{< video src="food.jpg" >}}
+
+## Hello earth 🌍
+
+{{< image src="toast.jpg" >}}
