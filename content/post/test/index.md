@@ -11,4 +11,4 @@ date: 2024-02-19T15:16:03Z
 
 ## Hello food 
 
-{{< image src="toast.jpg" >}}
+{{< video src="toast.jpg" >}}
