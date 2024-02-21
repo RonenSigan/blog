@@ -54,4 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Hello! this is a test site for Hugo Blox Blog. I hope it will be more that that soon!
+Hello! this is a test site for Hugo Blox Blog. I hope it will be more than that soon!
