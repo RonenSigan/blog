@@ -48,7 +48,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-   s
+   
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
