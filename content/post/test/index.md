@@ -9,8 +9,8 @@ image:
 
 ## Hello earth 🌍
 
-{{< video src="food.jpg" >}}
+
 
 ## Hello food 
 
-{{< video src="toast.jpg" >}}
+
