@@ -25,7 +25,7 @@ organizations:
     url: tbd
 
 # Short bio (displayed in user profile at end of posts)
-bio: Since I was born, I was told everything is my fault, and lately I'm realizing that it may be true. Anyway, just listened to Atomic by Blondie and wondered if Opennheimer would have liked it 🤷‍♀️.
+bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem mollis aliquam ut porttitor. Amet nisl purus in mollis nunc sed id semper. Sit amet est placerat in egestas. Ornare suspendisse sed nisi lacus sed viverra tellus. 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
