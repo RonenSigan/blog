@@ -27,13 +27,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: # Hey dessert lovers
 
-## Hello earth 🌍
-
-{{< video src="food.jpg" >}}
-
-## Hello food 
-
-{{< video src="toast.jpg" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem mollis aliquam ut porttitor. Amet nisl purus in mollis nunc sed id semper. Sit amet est placerat in egestas. Ornare suspendisse sed nisi lacus sed viverra tellus. Tempus imperdiet nulla malesuada pellentesque elit eget gravida. Blandit massa enim nec dui. Nulla aliquet porttitor lacus luctus accumsan tortor posuere. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Non sodales neque sodales ut. Risus nec feugiat in fermentum posuere urna nec tincidunt praesent. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum. Blandit aliquam etiam erat velit scelerisque in.
 
 Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Tortor pretium viverra suspendisse potenti nullam. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum a. Vulputate dignissim suspendisse in est ante. Pellentesque dignissim enim sit amet. At volutpat diam ut venenatis tellus. Pulvinar mattis nunc sed blandit. Amet volutpat consequat mauris nunc congue. Gravida neque convallis a cras semper auctor neque. Amet dictum sit amet justo. Morbi tristique senectus et netus et malesuada fames. Commodo quis imperdiet massa tincidunt nunc.
