@@ -19,3 +19,4 @@ how do you do?
 Vintage cars and appliances are cool!
 
 
+![Alt text](food.jpg "a title")
