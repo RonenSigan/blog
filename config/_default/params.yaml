@@ -29,8 +29,8 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
-    show_search: true
+    enable: true
+    show_search: false
     show_theme_chooser: true
 
 # Site footer
